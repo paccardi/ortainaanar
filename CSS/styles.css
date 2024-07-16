@@ -1,0 +1,142 @@
+
+body {
+    background-color: #eeeeee;
+    color: #222222;
+    margin: 0;
+    font-family: times, serif;
+    font-size: .8rem;
+    text-align: center;
+    vertical-align: top;
+  }
+p{
+  margin:0;
+}
+  hr {
+    border-color: #08ace2;
+    border-style: solid none none;
+    border-width: 5px;
+    height: 0;
+    width: 50%;
+  }
+  .bigger-break{
+    border-color: #084177;
+    border-style: solid none none;
+    border-width: .2rem;
+    margin: .7rem 0;
+    width: 100%;
+  }
+  h1 {
+    color:#084177;
+    font-family: Quicksand, sans-serif;
+    font-size: 2rem;
+    margin: 0;
+    padding:.3rem;
+  }
+  h2{
+    color: #08ace2;
+    font-family: Perpetua, serif;
+    font-size: 1.7rem;
+    margin: 0;
+    padding:.3rem;
+  }
+  h3 {
+    color: #08ace2;
+    font-family: Quicksand, sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+    padding:.3rem;
+  }
+  .b {
+    color: #084177;
+    font-family: Quicksand, sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+    padding:.3rem;
+  }
+  h4 {
+    color:#222222;
+    font-family: Perpetua,serif;
+    font-size:1.2rem;
+    margin:0;
+    padding:.1rem;
+  }
+div {
+  margin: 0;
+  overflow:hidden;
+  vertical-align: top;
+}
+.page-header {
+  background-color: #eeeeee;
+}
+.container-A {
+  background-color: #eeeeee;
+}
+.container-B {
+  background-color: #000000;
+  color:#eeeeee;
+}
+.container-C {
+  background-color: #eeeeee;
+  margin: 0 auto;
+  width: 80%;
+}
+.page-footer{
+  background-color: #eeeeee;
+}
+.reader{
+  margin: auto;
+  text-align: left;
+  width:80%;
+}
+.main-img{
+  width:100%;
+}
+.link-img{
+  width:50%
+}
+.profile-img{
+  float: left;
+  margin-right: 2rem;
+  width: 45%;
+}
+.profile2-img{
+  float: right;
+  margin-left: 2rem;
+  width: 45%;
+}
+a {
+  color:#084177;
+  font-family: Quicksand, sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  margin:0;
+  text-decoration: none;
+}
+.button {
+  background-color: #084177;
+  color: #eeeeee;
+  font-size:1rem;
+  padding: .5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.button2 {
+  background-color: #08ace2;
+  color: #111111;
+  font-size:1.5rem;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+ul{
+  margin:0;
+  text-align: left;
+}
+ol{
+  margin:0;
+  text-align: left;
+}
+/*
+/*embed font family via fonts.google.com. lesson 52 typography 101 (lesson 53)
